@@ -1,0 +1,17 @@
+timestamp,method,url,status,auth_type,has_payload,security_grade,errors_found
+2025-05-21T10:22:03.684682,GET,https://salvatempo.livith.it/prepare-order,200,,False,0/6 header di sicurezza presenti,warning
+2025-05-21T14:22:22.742753,GET,https://salvatempo.livith.it/login,200,,False,0/6 header di sicurezza presenti,warning
+2025-05-21T14:49:16.142030,GET,https://salvatempo.livith.it/login,200,,False,0/6 header di sicurezza presenti,warning
+2025-05-23T10:34:18.546075,GET,https://salvatempo.livith.it/login,200,,False,0/6 header di sicurezza presenti,warning
+2025-05-23T12:07:40.824401,GET,https://salvatempo.livith.it/prepare-order,200,,False,0/6 header di sicurezza presenti,warning
+2025-05-23T14:57:34.595209,GET,https://salvatempo.livith.it/login,200,,False,0/6 header di sicurezza presenti,warning
+2025-05-27T09:14:35.151168,GET,https://salvatempo.livith.it/prepare-order,200,,False,0/6 header di sicurezza presenti,warning
+2025-05-27T09:17:11.045773,GET,http://fixith.connecta.ovh/login,404,,False,0/6 header di sicurezza presenti,"error,not found"
+2025-05-27T09:20:18.648389,GET,http://fixith.connecta.ovh/Api/services/login,500,,False,0/6 header di sicurezza presenti,error
+2025-05-27T09:26:33.592367,POST,http://fixith.connecta.ovh/Api/services/login,500,,False,0/6 header di sicurezza presenti,error
+2025-05-27T09:26:54.836482,POST,http://fixith.connecta.ovh/login,404,,False,0/6 header di sicurezza presenti,"error,not found"
+2025-05-27T09:28:24.715727,POST,http://fixith.connecta.ovh/Api/services/login,500,,True,0/6 header di sicurezza presenti,error
+2025-05-27T09:28:37.946904,POST,http://fixith.connecta.ovh/login,404,,True,0/6 header di sicurezza presenti,"error,not found"
+2025-05-27T09:36:25.555132,POST,https://example.com/login,403,,True,0/6 header di sicurezza presenti,error
+2025-05-27T10:04:16.806883,GET,https://salvatempo.livith.it,200,,False,0/6 header di sicurezza presenti,warning
+2025-05-27T10:44:10.044159,GET,https://salvatempo.livith.it/login,200,,False,0/6 header di sicurezza presenti,warning

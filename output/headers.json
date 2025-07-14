@@ -1,0 +1,12 @@
+{
+  "accept-ranges": "bytes",
+  "content-encoding": "gzip",
+  "content-length": "6516",
+  "content-type": "text/html",
+  "date": "Tue, 27 May 2025 08:39:16 GMT",
+  "etag": "\"0f78d9b23cadb1:0\"",
+  "last-modified": "Wed, 21 May 2025 07:40:22 GMT",
+  "server": "Microsoft-IIS/10.0",
+  "vary": "Accept-Encoding",
+  "x-powered-by": "ASP.NET"
+}

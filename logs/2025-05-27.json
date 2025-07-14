@@ -1,0 +1,186 @@
+[
+  {
+    "timestamp": "2025-05-27T10:57:52.528152Z",
+    "command": "ssl",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "dominio=N/D",
+    "output": "Argomento mancante nel comando"
+  },
+  {
+    "timestamp": "2025-05-27T10:58:00.157134Z",
+    "command": "ssl",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "dominio=connecta.app",
+    "output": "Avvio analisi SSL"
+  },
+  {
+    "timestamp": "2025-05-27T10:58:02.788342Z",
+    "command": "ssl",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "dominio=connecta.app",
+    "output": "Analisi completata. SSL valido: N/D | Emittente: N/D"
+  },
+  {
+    "timestamp": "2025-05-27T12:24:43.619823Z",
+    "command": "scan_wifi",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "subnet=192.168.188.0/24",
+    "output": "Avvio scansione rete locale"
+  },
+  {
+    "timestamp": "2025-05-27T12:28:36.829850Z",
+    "command": "scan_wifi",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "subnet=192.168.188.0/24, dispositivi=56",
+    "output": "Recupero MAC e vendor"
+  },
+  {
+    "timestamp": "2025-05-27T12:28:50.702152Z",
+    "command": "scan_wifi",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "subnet=192.168.188.0/24, dispositivi=56",
+    "output": "Scansione completata con successo"
+  },
+  {
+    "timestamp": "2025-05-27T12:36:40.328735Z",
+    "command": "scraper",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "url=N/D",
+    "output": "Argomento mancante nel comando"
+  },
+  {
+    "timestamp": "2025-05-27T12:36:47.053426Z",
+    "command": "scan_wifi",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "subnet=192.168.188.0/24",
+    "output": "Avvio scansione rete locale"
+  },
+  {
+    "timestamp": "2025-05-27T12:40:49.423218Z",
+    "command": "scan_wifi",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "subnet=192.168.188.0/24, dispositivi=59",
+    "output": "Recupero MAC e vendor"
+  },
+  {
+    "timestamp": "2025-05-27T12:41:01.798863Z",
+    "command": "scan_wifi",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "subnet=192.168.188.0/24, dispositivi=59",
+    "output": "Scansione completata con successo"
+  },
+  {
+    "timestamp": "2025-05-27T12:44:06.513898Z",
+    "command": "ssl",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "dominio=N/D",
+    "output": "Argomento mancante nel comando"
+  },
+  {
+    "timestamp": "2025-05-27T12:44:17.022020Z",
+    "command": "seo",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "url=N/D",
+    "output": "Argomento mancante nel comando"
+  },
+  {
+    "timestamp": "2025-05-27T12:44:18.324056Z",
+    "command": "vulnerability",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "url=N/D",
+    "output": "Argomento mancante nel comando"
+  },
+  {
+    "timestamp": "2025-05-27T12:44:19.549741Z",
+    "command": "security",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "url=N/D",
+    "output": "Argomento mancante nel comando"
+  },
+  {
+    "timestamp": "2025-05-27T12:44:29.351096Z",
+    "command": "scraper",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "url=N/D",
+    "output": "Argomento mancante nel comando"
+  },
+  {
+    "timestamp": "2025-05-27T13:45:02.795793Z",
+    "command": "check_headers",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "https://connecta.app",
+    "output": "🔍 Risultato per https://connecta.app:\n📟 Status Code: 200\n\n⚠️ Header sensibili rilevati:\n - Server: nginx (Versione e software del server web esposto)\n\n🔒 Controllo header di sicurezza:\n - content-security-policy: ❌ Mancante (Protegge contro XSS e injection limitando risorse caricate)\n - strict-transport-security: ❌ Mancante (Forza HTTPS per comunicazioni sicure)\n - x-content-type-options: ✅ Presente: nosniff (Previene MIME sniffing (di solito 'nosniff'))\n - x-frame-options: ❌ Mancante (Previene clickjacking (es. 'DENY' o 'SAMEORIGIN'))\n - referrer-policy: ❌ Mancante (Controlla quali info referer inviare)\n - permissions-policy: ❌ Mancante (Controlla permessi per funzionalità browser (es. geoloc, webcam))\n\n💡 Suggerimenti:\n - Implementa una policy CSP restrittiva per prevenire XSS e injection.\n - Abilita HSTS per forzare HTTPS e prevenire downgrade attack.\n - Usa 'DENY' o 'SAMEORIGIN' per prevenire clickjacking.\n - Configura il referrer policy per ridurre perdita di privacy.\n - Limita le permissioni browser alle sole necessarie per la tua app.\n - Nascondi o modifica header Server per non rivelare info sul backend.\n"
+  },
+  {
+    "timestamp": "2025-05-27T13:45:19.408950Z",
+    "command": "ssl",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "dominio=N/D",
+    "output": "Argomento mancante nel comando"
+  },
+  {
+    "timestamp": "2025-05-27T13:45:27.599720Z",
+    "command": "ssl",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "dominio=connecta.app",
+    "output": "Avvio analisi SSL"
+  },
+  {
+    "timestamp": "2025-05-27T13:45:30.129603Z",
+    "command": "ssl",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "dominio=connecta.app",
+    "output": "Analisi completata. SSL valido: N/D | Emittente: N/D"
+  },
+  {
+    "timestamp": "2025-05-27T13:49:54.351607Z",
+    "command": "performance",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "https://connecta.app",
+    "output": "Performance test su URL: https://connecta.app\nRisultato:\n⏱️ Tempo caricamento pagina: 0.25 sec\n📄 Dimensione HTML: 275.81 KB\n🖼️ Immagini: 43\n📜 Script JS: 47\n🎨 CSS: 14\n🔗 Risorse esterne totali: 72 (uniche: 54)\n⚖️ Dimensione media stimata per risorsa: 50.00 KB\n🔐 HTTPS\n🔎 Risorse caricate:\n• https://connecta.app/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.21.0\n• https://connecta.app/wp-content/plugins/perfmatters/js/lazyload.min.js?ver=2.4.3\n• https://connecta.app/wp-content/plugins/burst-pro/helpers/timeme/timeme.min.js?ver=1748309721\n• https://connecta.app/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.8.1\n• https://connecta.app/wp-content/uploads/2023/09/iso-2015.png\n• https://connecta.app/wp-content/plugins/wpforms-lite/assets/js/share/utils.min.js?ver=1.9.5.1\n• https://connecta.app/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.5\n• https://connecta.app/wp-content/plugins/divimenus/scripts/frontend-bundle.min.js?ver=2.22.0\n• https://connecta.app/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.10\n• data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='150'%20height='153'%20viewBox='0%200%20150%20153'%3E%3C/svg%3E\n... e altre 44 risorse\n"
+  },
+  {
+    "timestamp": "2025-05-27T14:17:45.959727Z",
+    "command": "seo",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "url=N/D",
+    "output": "Argomento mancante nel comando"
+  },
+  {
+    "timestamp": "2025-05-27T14:17:53.256720Z",
+    "command": "seo",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "url=connecta.app",
+    "output": "Avvio analisi SEO"
+  },
+  {
+    "timestamp": "2025-05-27T14:17:56.435956Z",
+    "command": "seo",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "url=connecta.app",
+    "output": "Analisi completata. Titolo: 'Digital Growth Agency - Web marketing e sviluppo software' | Images senza alt: 36"
+  }
+]

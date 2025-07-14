@@ -1,0 +1,1 @@
+{"timestamp": "2025-05-21T07:51:48.534304", "method": "GET", "url": "https://salvatempo.livith.it/prepare-order", "final_url": "https://salvatempo.livith.it/prepare-order", "status": 200, "sensitive_headers": ["Server", "X-Powered-By"], "errors": ["warning"]}

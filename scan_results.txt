@@ -1,0 +1,59 @@
+Hostname: N/D	IP: 192.168.188.1	MAC: 00:90:7f:e5:20:a1	Vendor: WatchGuard Technologies, Inc.
+Hostname: N/D	IP: 192.168.188.5	MAC: e4:5f:01:71:70:1c	Vendor: Raspberry Pi Trading Ltd
+Hostname: CANOND009B3	IP: 192.168.188.10	MAC: 34:9f:7b:d0:09:b3	Vendor: CANON INC.
+Hostname: miniPC-AI	IP: 192.168.188.11	MAC: 68:1d:ef:35:4e:3e	Vendor: Shenzhen CYX Technology Co., Ltd.
+Hostname: CONNECTA-VIDEO	IP: 192.168.188.18	MAC: 00:11:32:84:8e:8c	Vendor: Synology Incorporated
+Hostname: CONNECTA-NAS	IP: 192.168.188.19	MAC: 90:09:d0:78:3d:1d	Vendor: Synology Incorporated
+Hostname: CANONCEE777	IP: 192.168.188.20	MAC: 34:9f:7b:ce:e7:77	Vendor: CANON INC.
+Hostname: N/D	IP: 192.168.188.40	MAC: e0:92:8f:90:0f:d2	Vendor: Texas Instruments
+Hostname: N/D	IP: 192.168.188.71	MAC: 8c:ec:4b:b7:3c:4c	Vendor: Dell Inc.
+Hostname: MAC-BC5881	IP: 192.168.188.90	MAC: 80:6d:97:12:bf:74	Vendor: Private
+Hostname: N/D	IP: 192.168.188.100	MAC: 00:02:69:0e:37:0e	Vendor: Nadatel Co., Ltd
+Hostname: N/D	IP: 192.168.188.101	MAC: d8:ec:e5:8d:e1:87	Vendor: Zyxel Communications Corporation
+Hostname: N/D	IP: 192.168.188.102	MAC: b8:d5:26:ff:a9:67	Vendor: Zyxel Communications Corporation
+Hostname: N/D	IP: 192.168.188.103	MAC: 80:5e:0c:27:99:56	Vendor: YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+Hostname: N/D	IP: 192.168.188.104	MAC: 80:5e:0c:27:98:56	Vendor: YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+Hostname: N/D	IP: 192.168.188.105	MAC: 80:5e:0c:27:98:41	Vendor: YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+Hostname: N/D	IP: 192.168.188.106	MAC: 80:5e:0c:27:98:36	Vendor: YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+Hostname: N/D	IP: 192.168.188.107	MAC: 80:5e:0c:2d:3c:43	Vendor: YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+Hostname: N/D	IP: 192.168.188.108	MAC: 80:5e:0c:56:68:4e	Vendor: YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+Hostname: N/D	IP: 192.168.188.109	MAC: 80:5e:0c:2d:3c:8c	Vendor: YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+Hostname: N/D	IP: 192.168.188.111	MAC: 00:19:ba:15:3f:e1	Vendor: Paradox Security Systems Ltd
+Hostname: N/D	IP: 192.168.188.112	MAC: 80:5e:0c:56:68:29	Vendor: YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+Hostname: N/D	IP: 192.168.188.113	MAC: 40:22:d8:61:82:f4	Vendor: Espressif Inc.
+Hostname: N/D	IP: 192.168.188.116	MAC: d2:59:37:07:0f:4a	Vendor: N/D
+Hostname: N/D	IP: 192.168.188.118	MAC: c2:64:12:d8:91:0f	Vendor: N/D
+Hostname: N/D	IP: 192.168.188.119	MAC: 94:0e:6b:b5:50:21	Vendor: HUAWEI TECHNOLOGIES CO.,LTD
+Hostname: N/D	IP: 192.168.188.122	MAC: 5c:8b:6b:d1:52:9a	Vendor: Amazon Technologies Inc.
+Hostname: N/D	IP: 192.168.188.123	MAC: b8:ec:a3:df:aa:01	Vendor: Zyxel Communications Corporation
+Hostname: N/D	IP: 192.168.188.124	MAC: 68:f6:3b:69:22:bb	Vendor: Amazon Technologies Inc.
+Hostname: N/D	IP: 192.168.188.128	MAC: ca:4e:32:0b:14:8d	Vendor: N/D
+Hostname: N/D	IP: 192.168.188.129	MAC: 2e:73:23:73:3e:6b	Vendor: N/D
+Hostname: N/D	IP: 192.168.188.132	MAC: f2:16:17:9a:25:81	Vendor: N/D
+Hostname: N/D	IP: 192.168.188.137	MAC: 9a:a8:25:fd:94:2f	Vendor: N/D
+Hostname: MAC-2A4B1D	IP: 192.168.188.154	MAC: a4:fc:14:2a:4b:1d	Vendor: Apple, Inc.
+Hostname: N/D	IP: 192.168.188.157	MAC: ce:65:bd:3e:f7:86	Vendor: N/D
+Hostname: N/D	IP: 192.168.188.164	MAC: 2a:87:ba:06:58:9b	Vendor: N/D
+Hostname: MAC-BC5881	IP: 192.168.188.171	MAC: 26:8f:2e:75:b5:a6	Vendor: N/D
+Hostname: N/D	IP: 192.168.188.180	MAC: 80:5e:0c:56:65:63	Vendor: YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+Hostname: N/D	IP: 192.168.188.183	MAC: 24:5a:4c:15:53:63	Vendor: Ubiquiti Inc
+Hostname: N/D	IP: 192.168.188.187	MAC: 86:ff:87:f4:51:6c	Vendor: N/D
+Hostname: NOTEBOO-MAGAZZI	IP: 192.168.188.195	MAC: 8c:c8:4b:72:c1:d9	Vendor: CHONGQING FUGUI ELECTRONICS CO.,LTD.
+Hostname: LMT65	IP: 192.168.188.205	MAC: 50:7c:6f:15:e6:41	Vendor: Intel Corporate
+Hostname: NB-Arlinda	IP: 192.168.188.207	MAC: f8:9e:94:f5:d3:d1	Vendor: Intel Corporate
+Hostname: MAC-5B5015	IP: 192.168.188.208	MAC: d2:f9:23:61:2a:c6	Vendor: N/D
+Hostname: PC-SAMUELE	IP: 192.168.188.211	MAC: 80:6d:97:4c:19:72	Vendor: Private
+Hostname: N/D	IP: 192.168.188.212	MAC: 72:bb:03:d4:04:a6	Vendor: N/D
+Hostname: MACBOOKPRO-8523	IP: 192.168.188.213	MAC: 98:fc:84:ed:0a:94	Vendor: IEEE Registration Authority
+Hostname: MACBOOKPRO-8523	IP: 192.168.188.218	MAC: 9a:f9:e0:48:df:32	Vendor: N/D
+Hostname: N/D	IP: 192.168.188.221	MAC: 82:64:3c:6f:e6:da	Vendor: N/D
+Hostname: N/D	IP: 192.168.188.222	MAC: 34:00:8a:b0:34:71	Vendor: IEEE Registration Authority
+Hostname: GianlucaPC	IP: 192.168.188.226	MAC: 60:a5:e2:1f:24:a8	Vendor: Intel Corporate
+Hostname: N/D	IP: 192.168.188.227	MAC: 2e:17:af:f8:73:6f	Vendor: N/D
+Hostname: MACBOOK-PRO-MAX	IP: 192.168.188.228	MAC: d2:b1:cd:0a:31:ed	Vendor: N/D
+Hostname: N/D	IP: 192.168.188.229	MAC: 1a:ae:23:6d:3a:fb	Vendor: N/D
+Hostname: N/D	IP: 192.168.188.238	MAC: f8:4e:58:a4:7e:04	Vendor: Samsung Electronics Co.,Ltd
+Hostname: N/D	IP: 192.168.188.240	MAC: b0:4a:b4:96:dd:aa	Vendor: Motorola Mobility LLC, a Lenovo Company
+Hostname: N/D	IP: 192.168.188.247	MAC: fa:ff:12:0b:ba:fa	Vendor: N/D
+Hostname: Gabriele	IP: 192.168.188.115	MAC: N/D	Vendor: N/D
+Hostname: N/D	IP: 192.168.188.249	MAC: N/D	Vendor: N/D

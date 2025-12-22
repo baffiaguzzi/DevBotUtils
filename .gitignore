@@ -1,3 +1,11 @@
 # Env file
 .env
 .env.*
+
+# output logs/results
+*.csv
+*.txt
+*.json
+
+# logs
+logs/

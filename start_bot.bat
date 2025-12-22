@@ -1,4 +1,6 @@
 @echo off
-cd /d "C:\Users\gabri\OneDrive\Desktop\pyt\bot_telegram"
-python main.py
-pause
+cd /d "%~dp0"
+python -m main
+echo.
+echo Press anywhere to exit...
+pause > nul

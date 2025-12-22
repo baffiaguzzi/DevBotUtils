@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-07-29T17:29:21.958849Z",
+    "command": "seo",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "url=N/D",
+    "output": "Argomento mancante nel comando"
+  },
+  {
+    "timestamp": "2025-07-29T17:30:18.683883Z",
+    "command": "seo",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "url=https://www.pythoncheatsheet.org/",
+    "output": "Avvio analisi SEO"
+  },
+  {
+    "timestamp": "2025-07-29T17:30:19.776515Z",
+    "command": "seo",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "url=https://www.pythoncheatsheet.org/",
+    "output": "Analisi completata. Titolo: 'Python Cheatsheet - Python Cheatsheet' | Images senza alt: 0"
+  }
+]

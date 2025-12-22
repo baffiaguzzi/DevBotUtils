@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-12-03T06:52:23.897894Z",
+    "command": "seo",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "url=N/D",
+    "output": "Argomento mancante nel comando"
+  },
+  {
+    "timestamp": "2025-12-03T06:52:42.683513Z",
+    "command": "seo",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "url=livith.it",
+    "output": "Avvio analisi SEO"
+  },
+  {
+    "timestamp": "2025-12-03T06:52:43.786164Z",
+    "command": "seo",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "url=livith.it",
+    "output": "Analisi completata. Titolo: 'Livith' | Images senza alt: 0"
+  },
+  {
+    "timestamp": "2025-12-03T06:53:28.811119Z",
+    "command": "performance",
+    "user_id": 6719207577,
+    "username": "",
+    "input": "https://livith.it",
+    "output": "Performance test su URL: https://livith.it\nRisultato:\n⏱️ Tempo caricamento pagina: 0.42 sec\n📄 Dimensione HTML: 303.33 KB\n🖼️ Immagini: 6\n📜 Script JS: 33\n🎨 CSS: 2\n🔗 Risorse esterne totali: 28 (uniche: 27)\n⚖️ Dimensione media stimata per risorsa: 50.00 KB\n🔐 HTTPS\n🔎 Risorse caricate:\n• https://livith.it/video/pre-video2.jpg\n• https://livith.it/_next/static/chunks/8706-a9dc965dd2eabbf2.js?dpl=dpl_747camVg7bed8yBD91Yx4999SrR4\n• https://livith.it/_next/static/chunks/5237-2c27ac6a4eea9ca7.js?dpl=dpl_747camVg7bed8yBD91Yx4999SrR4\n• https://livith.it/_next/static/css/4d3d9169b46fed63.css?dpl=dpl_747camVg7bed8yBD91Yx4999SrR4\n• https://livith.it/_next/static/chunks/app/%5Blocale%5D/page-eac5344ab18d774a.js?dpl=dpl_747camVg7bed8yBD91Yx4999SrR4\n• https://livith.it/_next/static/chunks/2972-9c8273c6141cd854.js?dpl=dpl_747camVg7bed8yBD91Yx4999SrR4\n• https://livith.it/_next/static/chunks/4675-bc41e30cf81a8929.js?dpl=dpl_747camVg7bed8yBD91Yx4999SrR4\n• https://livith.it/images/logo.png\n• https://livith.it/_next/static/css/21f9991730cb200a.css?dpl=dpl_747camVg7bed8yBD91Yx4999SrR4\n• https://livith.it/_next/static/chunks/app/error-df10a3e0351d8d3a.js?dpl=dpl_747camVg7bed8yBD91Yx4999SrR4\n... e altre 17 risorse\n"
+  }
+]

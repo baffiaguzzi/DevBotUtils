@@ -1,6 +1,11 @@
 # 🤖 DevBotUtils — Telegram Bot for Developers, Ethical Hackers & Sysadmins
 
-**DevBotUtils** is a multifunctional Telegram bot designed to help developers, pentesters, sysadmins, and power users automate diagnostics, testing, and reconnaissance — all directly from Telegram.
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![Bot](https://img.shields.io/badge/type-Telegram%20Bot-blueviolet)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Version](https://img.shields.io/badge/version-1.2.0-blue)
+
+*A multifunctional Telegram bot designed to help developers, pentesters, sysadmins, and power users automate diagnostics, testing, and reconnaissance — all directly from Telegram.*
 
 No need to install anything locally — everything runs via Telegram commands in the cloud.
 
@@ -43,7 +48,7 @@ No need to install anything locally — everything runs via Telegram commands in
 | `/api_easy`      | Simple REST API tester                                   |
 | `/api_pro`       | Advanced API tester (Postman-style)                      |
 | `/ip`            | IP scanner for open ports/services                       |
-| `/wifi`          | Wi-Fi LAN scanner (for local networks only)             |
+| `/wifi`          | Wi-Fi LAN scanner (for local networks only)              |
 | `/scraper`       | Scrape and extract HTML content                          |
 | `/jwt`           | Decode and validate JWT tokens                           |
 | `/pentest`       | Brute-force phpMyAdmin login                             |
@@ -75,29 +80,29 @@ Only authorized users (via `.env` or `config.py`) can access the bot and its com
 
 1. **Clone the repo**  
 
-   ```bash
+```bash
    git clone https://github.com/your-username/DevBotUtils.git
    cd DevBotUtils
-   ```
+```
 
 2. **Install dependencies**  
 
-   ```bash
+```bash
    pip install -r requirements.txt
-   ```
+```
 
 3. **Create a `.env` file** with your bot credentials  
 
-   ```env
+```env
    BOT_TOKEN=your_telegram_bot_token
    ALLOWED_USERS=123456789,987654321
-   ```
+```
 
 4. **Run the bot**  
 
-   ```bash
+```bash
    python main.py
-   ```
+```
 
 ✅ The bot runs in polling mode and will start listening to Telegram commands.
 

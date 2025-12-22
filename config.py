@@ -1,7 +1,12 @@
-BOT_TOKEN = "7502880630:AAExhQlTZdb-GhGtQ5wy-ybWQV8CJw99O_E"
-BUGS_FILE = "bugs.json"
-BUG_DIR = "bug_reports"
-ALLOWED_USERS = [123456789, 6719207577]
+import os
+
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+
+BUGS_FILE = os.getenv("BUGS_FILE", "bugs.json")
+BUG_DIR = os.getenv("BUG_DIR", "bug_reports")
+
+ALLOWED_USERS = list(map(int, filter(None, os.getenv("ALLOWED_USERS", "").split(","))))
 
 def is_authorized(user_id: int) -> bool:
+    """Verify if the user is allowed"""
     return user_id in ALLOWED_USERS

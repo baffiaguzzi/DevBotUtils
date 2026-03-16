@@ -104,7 +104,7 @@ Only authorized users (via `.env` or `config.py`) can access the bot and its com
    python main.py
 ```
 
-✅ The bot runs in polling mode and will start listening to Telegram commands.
+The bot runs in polling mode and will start listening to Telegram commands.
 
 ---
 
@@ -122,13 +122,6 @@ Only authorized users (via `.env` or `config.py`) can access the bot and its com
 
 ---
 
-## 📜 License
-
-**MIT License** © Gabriele Tambellini  
-This bot is free and open-source. Use responsibly for educational or professional purposes.
-
----
-
 ## ✨ Contributing
 
 Feel free to fork the repo and create pull requests for improvements or new features.  
@@ -142,3 +135,10 @@ If you find this project useful, consider giving it a ⭐️!
 > A smart, portable assistant — right in your pocket.
 
 Happy hacking! 👨‍💻💥  
+
+---
+
+## 📜 License
+
+MIT License © 2026 Gabriele A. Tambellini
+See the [LICENSE](LICENSE) file for details.
